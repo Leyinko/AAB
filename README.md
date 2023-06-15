@@ -7,7 +7,9 @@
 <br>
 <br>
 <br>
+<p align="center">
 <img src="https://res.cloudinary.com/drft9abh4/image/upload/v1686780059/AAB%20Git/Exp_1_sqq8vj.png" align="center" width="500" alt="">
+</p>
 <h4>Before you start, ensure that you have downloaded all the AAB.js files and the bookmarks.json file!</h4>
 <br>
 <br>
@@ -24,7 +26,9 @@
 </ol>
 <br>
 <br>
+<p align="center">
 <img src="https://res.cloudinary.com/drft9abh4/image/upload/v1686783193/AAB%20Git/2023-06-15_00h51_39_o6c3cx.gif"  width="500" alt="">
+</p>
 <br>
 <br>
 <h2 align="center">IMPORTANT!</h2>
