@@ -1,8 +1,8 @@
-<h1 style="text-align:center">The AABs : ALL ABOUT</h1>
+<h1 align="center">The AABs : ALL ABOUT</h1>
 <br>
 <p>Little project designed to provide an interactive and user-friendly way to explore and test various JavaScript methods across different data types.  With just a simple console.log, users can immediately test the syntax and behavior of different methods. </p>
 <br>
-<span style="text-align:left; font-weight:bold">How to use ⬇</span>
+<span>**How to use ⬇**</span>
 <br>
 <span style="font-size : 13px; font-style: italic;">For optimal usage, it is recommended to download both the Bookmarks and Quokka Extensions from the VCS Store. While not mandatory, having both extensions will enhance your efficiency. </span>
 <br>
