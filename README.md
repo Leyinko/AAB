@@ -1,8 +1,15 @@
 <h1 align="center">The AABs : ALL ABOUT</h1>
 <br>
-<p>Little project designed to provide an interactive and user-friendly way to explore and test various JavaScript methods across different data types.  With just a simple console.log, users can immediately test the syntax and behavior of different methods. </p>
-<br>
-<h3  align="center">How to use :</h3>
+<p>Little project designed to provide an interactive and user-friendly way to explore and test various JavaScript methods across different data types. </p>
+<ul>
+<li>Arrays</li>
+<li>Booleans</li>
+<li>Global</li>
+<li>Math and Numbers</li>
+<li>Strings</li>
+</ul>
+<h5 align="center">With just a simple console.log, users can immediately test the syntax and behavior of different methods. </h5 >
+<h3 align="center">How to use :</h3>
 <span><em>For optimal usage, it is recommended to download both the Bookmarks and Quokka Extensions from the VCS Store. While not mandatory, having both extensions will enhance your efficiency. </em></span>
 <br>
 <br>
