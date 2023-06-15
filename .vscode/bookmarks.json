@@ -1,0 +1,489 @@
+{
+	"files": [
+		{
+			"path": "AAB-Arrays.js",
+			"bookmarks": [
+				{
+					"line": 10,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 21,
+					"column": 14,
+					"label": "at"
+				},
+				{
+					"line": 28,
+					"column": 21,
+					"label": "concat"
+				},
+				{
+					"line": 36,
+					"column": 24,
+					"label": "constructor"
+				},
+				{
+					"line": 45,
+					"column": 22,
+					"label": "copyWithin"
+				},
+				{
+					"line": 76,
+					"column": 16,
+					"label": "fill"
+				},
+				{
+					"line": 84,
+					"column": 22,
+					"label": "filter"
+				},
+				{
+					"line": 104,
+					"column": 24,
+					"label": "findIndex"
+				},
+				{
+					"line": 114,
+					"column": 17,
+					"label": "flat"
+				},
+				{
+					"line": 121,
+					"column": 25,
+					"label": "flatMap"
+				},
+				{
+					"line": 131,
+					"column": 22,
+					"label": "forEach"
+				},
+				{
+					"line": 144,
+					"column": 26,
+					"label": "Array.from"
+				},
+				{
+					"line": 151,
+					"column": 23,
+					"label": "includes"
+				},
+				{
+					"line": 159,
+					"column": 20,
+					"label": "indexOf"
+				},
+				{
+					"line": 166,
+					"column": 22,
+					"label": "isArray"
+				},
+				{
+					"line": 173,
+					"column": 17,
+					"label": "join"
+				},
+				{
+					"line": 181,
+					"column": 23,
+					"label": "keys"
+				},
+				{
+					"line": 194,
+					"column": 24,
+					"label": "lastIndexOf"
+				},
+				{
+					"line": 201,
+					"column": 19,
+					"label": "length"
+				},
+				{
+					"line": 214,
+					"column": 21,
+					"label": "map"
+				},
+				{
+					"line": 226,
+					"column": 16,
+					"label": "pop"
+				},
+				{
+					"line": 234,
+					"column": 23,
+					"label": "prototype"
+				},
+				{
+					"line": 249,
+					"column": 17,
+					"label": "push"
+				},
+				{
+					"line": 257,
+					"column": 21,
+					"label": "reduce"
+				},
+				{
+					"line": 267,
+					"column": 26,
+					"label": "reduceRight"
+				},
+				{
+					"line": 277,
+					"column": 20,
+					"label": "reverse"
+				},
+				{
+					"line": 285,
+					"column": 18,
+					"label": "shift"
+				},
+				{
+					"line": 293,
+					"column": 21,
+					"label": "slice"
+				},
+				{
+					"line": 301,
+					"column": 21,
+					"label": "some"
+				},
+				{
+					"line": 311,
+					"column": 19,
+					"label": "sort"
+				},
+				{
+					"line": 322,
+					"column": 19,
+					"label": "splice"
+				},
+				{
+					"line": 330,
+					"column": 21,
+					"label": "toString"
+				},
+				{
+					"line": 338,
+					"column": 20,
+					"label": "unshift"
+				},
+				{
+					"line": 346,
+					"column": 20,
+					"label": "valueOf"
+				}
+			]
+		},
+		{
+			"path": "AAB-Boolenas.js",
+			"bookmarks": [
+				{
+					"line": 9,
+					"column": 43,
+					"label": "constructor"
+				},
+				{
+					"line": 16,
+					"column": 41,
+					"label": "prototype"
+				},
+				{
+					"line": 34,
+					"column": 20,
+					"label": "toString"
+				},
+				{
+					"line": 41,
+					"column": 19,
+					"label": "valueOf"
+				}
+			]
+		},
+		{
+			"path": "AAB-Global.js",
+			"bookmarks": [
+				{
+					"line": 9,
+					"column": 16,
+					"label": "eval"
+				},
+				{
+					"line": 23,
+					"column": 30,
+					"label": "infinity"
+				},
+				{
+					"line": 33,
+					"column": 40,
+					"label": "isFinite"
+				},
+				{
+					"line": 41,
+					"column": 34,
+					"label": "isNaN"
+				},
+				{
+					"line": 51,
+					"column": 18,
+					"label": "Number"
+				},
+				{
+					"line": 62,
+					"column": 22,
+					"label": "parseFloat"
+				},
+				{
+					"line": 73,
+					"column": 20,
+					"label": "parseInt"
+				},
+				{
+					"line": 87,
+					"column": 18,
+					"label": "String"
+				},
+				{
+					"line": 98,
+					"column": 19,
+					"label": "undefined"
+				}
+			]
+		},
+		{
+			"path": "AAB-Math-and-Numbers.js",
+			"bookmarks": [
+				{
+					"line": 2,
+					"column": 20,
+					"label": "Math >"
+				},
+				{
+					"line": 9,
+					"column": 17,
+					"label": "floor"
+				},
+				{
+					"line": 17,
+					"column": 15,
+					"label": "max"
+				},
+				{
+					"line": 24,
+					"column": 15,
+					"label": "min"
+				},
+				{
+					"line": 31,
+					"column": 15,
+					"label": "pow"
+				},
+				{
+					"line": 38,
+					"column": 18,
+					"label": "random"
+				},
+				{
+					"line": 57,
+					"column": 17,
+					"label": "round"
+				},
+				{
+					"line": 64,
+					"column": 16,
+					"label": "sign"
+				},
+				{
+					"line": 75,
+					"column": 16,
+					"label": "sqrt"
+				},
+				{
+					"line": 82,
+					"column": 17,
+					"label": "trunc"
+				},
+				{
+					"line": 89,
+					"column": 24,
+					"label": "Numbers >"
+				},
+				{
+					"line": 99,
+					"column": 21,
+					"label": "constructor"
+				},
+				{
+					"line": 108,
+					"column": 23,
+					"label": "isInteger"
+				},
+				{
+					"line": 115,
+					"column": 31,
+					"label": "MAX_VALUE / MIN_VALUE"
+				},
+				{
+					"line": 121,
+					"column": 25,
+					"label": "toExponential"
+				},
+				{
+					"line": 128,
+					"column": 19,
+					"label": "toFixed"
+				},
+				{
+					"line": 135,
+					"column": 23,
+					"label": "toPrecision"
+				},
+				{
+					"line": 142,
+					"column": 20,
+					"label": "toString"
+				},
+				{
+					"line": 149,
+					"column": 19,
+					"label": "valueOf"
+				}
+			]
+		},
+		{
+			"path": "AAB-Strings.js",
+			"bookmarks": [
+				{
+					"line": 10,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 19,
+					"column": 14,
+					"label": "at"
+				},
+				{
+					"line": 26,
+					"column": 18,
+					"label": "charAT"
+				},
+				{
+					"line": 33,
+					"column": 38,
+					"label": "charCodeAt / charPointAt"
+				},
+				{
+					"line": 40,
+					"column": 21,
+					"label": "concat"
+				},
+				{
+					"line": 48,
+					"column": 24,
+					"label": "constructor"
+				},
+				{
+					"line": 57,
+					"column": 22,
+					"label": "endsWith"
+				},
+				{
+					"line": 65,
+					"column": 22,
+					"label": "includes"
+				},
+				{
+					"line": 73,
+					"column": 19,
+					"label": "indexOf"
+				},
+				{
+					"line": 81,
+					"column": 23,
+					"label": "lastIndexOf"
+				},
+				{
+					"line": 89,
+					"column": 19,
+					"label": "length"
+				},
+				{
+					"line": 96,
+					"column": 28,
+					"label": "localeCompare"
+				},
+				{
+					"line": 113,
+					"column": 21,
+					"label": "match"
+				},
+				{
+					"line": 120,
+					"column": 19,
+					"label": "padEnd"
+				},
+				{
+					"line": 127,
+					"column": 21,
+					"label": "padStart"
+				},
+				{
+					"line": 134,
+					"column": 19,
+					"label": "repeat"
+				},
+				{
+					"line": 142,
+					"column": 20,
+					"label": "replace"
+				},
+				{
+					"line": 150,
+					"column": 19,
+					"label": "search"
+				},
+				{
+					"line": 158,
+					"column": 21,
+					"label": "slice"
+				},
+				{
+					"line": 166,
+					"column": 21,
+					"label": "split"
+				},
+				{
+					"line": 174,
+					"column": 25,
+					"label": "startsWith"
+				},
+				{
+					"line": 182,
+					"column": 19,
+					"label": "substr"
+				},
+				{
+					"line": 190,
+					"column": 24,
+					"label": "toLowerCase"
+				},
+				{
+					"line": 198,
+					"column": 24,
+					"label": "toUpperCase"
+				},
+				{
+					"line": 206,
+					"column": 44,
+					"label": "trim / trimStart / trimEnd"
+				},
+				{
+					"line": 214,
+					"column": 20,
+					"label": "valueOf"
+				}
+			]
+		}
+	]
+}
