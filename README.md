@@ -7,9 +7,8 @@
 <br>
 <br>
 <img src="https://res.cloudinary.com/drft9abh4/image/upload/v1686780059/AAB%20Git/Exp_1_sqq8vj.png" align="center" width="500" alt="">
+<h4>Before you start, ensure that you have downloaded all the AAB.js files and the bookmarks.json file!</h4>
 <br>
-<br>
-<h4  align="center">Before you start, ensure that you have downloaded all the AAB.js files and the bookmarks.json file!</h4>
 <br>
 <p>To use the Bookmark extension Side Bar in VCS for testing a method, follow these steps :</p>
 <br>
@@ -17,7 +16,6 @@
 <li>Select the desired method from the Bookmark extension Side Bar.</li>
 <br>
 <p><i>To assign a shortcut for displaying the Bookmarks in the extension Side Bar, access the parameters or settings and choose a shortcut to enable quick access.</i></p>
-
 <li>Review the short description of the selected method.</li>
 <br>
 <li>Find the appropriate command for testing and executing a console.log statement.<br>
