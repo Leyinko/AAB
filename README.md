@@ -32,9 +32,9 @@
 <p><i>To assign a shortcut for displaying the Bookmarks in the extension Side Bar, access the parameters or settings and choose a shortcut to enable quick access.</i></p>
 <li>Review the short description of the selected method.</li>
 <br>
-<li>Run the Quokka.js : Start on Current File command.</li>
+<li>Run the <code>Quokka.js : Start on Current File</code> command.</li>
 <br>
-<li>Find the appropriate line for testing and execute a console.log statement.</li>
+<li>Find the appropriate line for testing and execute a <code>console.log</code> statement.</li>
 </ol>
 <br>
 <br>
