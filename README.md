@@ -7,6 +7,7 @@
 <li>Global</li>
 <li>Math and Numbers</li>
 <li>Strings</li>
+<li>RegExp</li>
 </ul>
 <br>
 <h5 align="center">With just a simple console.log, users can immediately test the syntax and behavior of different methods. </h5 >

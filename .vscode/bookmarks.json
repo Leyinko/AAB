@@ -484,6 +484,131 @@
 					"label": "valueOf"
 				}
 			]
+		},
+		{
+			"path": "AAB-RegExp.js",
+			"bookmarks": [
+				{
+					"line": 12,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 22,
+					"column": 14,
+					"label": "Methods >"
+				},
+				{
+					"line": 26,
+					"column": 21,
+					"label": "exec"
+				},
+				{
+					"line": 33,
+					"column": 18,
+					"label": "test"
+				},
+				{
+					"line": 40,
+					"column": 20,
+					"label": "match"
+				},
+				{
+					"line": 48,
+					"column": 16,
+					"label": "Modifiers >"
+				},
+				{
+					"line": 50,
+					"column": 11,
+					"label": "g"
+				},
+				{
+					"line": 58,
+					"column": 11,
+					"label": "i"
+				},
+				{
+					"line": 66,
+					"column": 11,
+					"label": "m"
+				},
+				{
+					"line": 78,
+					"column": 15,
+					"label": "Brackets >"
+				},
+				{
+					"line": 80,
+					"column": 13,
+					"label": "[abc]"
+				},
+				{
+					"line": 90,
+					"column": 14,
+					"label": "[^abc]"
+				},
+				{
+					"line": 100,
+					"column": 24,
+					"label": "[0-9] / [^0-9]"
+				},
+				{
+					"line": 109,
+					"column": 13,
+					"label": "[x|y]"
+				},
+				{
+					"line": 115,
+					"column": 21,
+					"label": "Metacharacters >"
+				},
+				{
+					"line": 121,
+					"column": 10,
+					"label": "\\w"
+				},
+				{
+					"line": 126,
+					"column": 10,
+					"label": "\\W"
+				},
+				{
+					"line": 131,
+					"column": 23,
+					"label": "\\d / \\D"
+				},
+				{
+					"line": 136,
+					"column": 18,
+					"label": "Quantifier >"
+				},
+				{
+					"line": 138,
+					"column": 9,
+					"label": "*"
+				},
+				{
+					"line": 143,
+					"column": 11,
+					"label": "{X}"
+				},
+				{
+					"line": 148,
+					"column": 14,
+					"label": "{X, Y}"
+				},
+				{
+					"line": 153,
+					"column": 12,
+					"label": "{X,}"
+				},
+				{
+					"line": 158,
+					"column": 17,
+					"label": "?= / !?"
+				}
+			]
 		}
 	]
 }
