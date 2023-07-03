@@ -87,6 +87,11 @@ const numberOne = 23.45;
 
 const trunc = Math.trunc(numberOne);
 
+// NB 9 : ceil()
+// > The Math.ceil() method rounds a number rounded UP to the nearest integer >
+
+const ceil = Math.ceil(numberOne);
+
 // * Part II - Numbers >
 
 // * Test Subjects >
@@ -97,7 +102,7 @@ const exponentialNumber = 5.53678;
 
 // * Tests >
 
-// NB 1 : constructor
+// NB 0 : constructor
 // > The constructor property returns the function that created the Number prototype >
 
 // number.constructor

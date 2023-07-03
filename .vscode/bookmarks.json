@@ -204,47 +204,47 @@
 			"path": "AAB-Global.js",
 			"bookmarks": [
 				{
-					"line": 9,
+					"line": 5,
 					"column": 16,
-					"label": "eval"
+					"label": "eval()"
 				},
 				{
-					"line": 23,
+					"line": 19,
 					"column": 30,
-					"label": "infinity"
+					"label": "infinity / -infinity"
 				},
 				{
-					"line": 33,
+					"line": 29,
 					"column": 40,
-					"label": "isFinite"
+					"label": "isFinite() / Number.isFinite()"
 				},
 				{
-					"line": 41,
+					"line": 37,
 					"column": 34,
-					"label": "isNaN"
+					"label": "isNan / Number.isNan()"
 				},
 				{
-					"line": 51,
+					"line": 47,
 					"column": 18,
-					"label": "Number"
+					"label": "Number()"
 				},
 				{
-					"line": 62,
+					"line": 58,
 					"column": 22,
-					"label": "parseFloat"
+					"label": "parseFloat()"
 				},
 				{
-					"line": 73,
+					"line": 69,
 					"column": 20,
-					"label": "parseInt"
+					"label": "parseInt()"
 				},
 				{
-					"line": 87,
+					"line": 83,
 					"column": 18,
-					"label": "String"
+					"label": "String()"
 				},
 				{
-					"line": 98,
+					"line": 94,
 					"column": 19,
 					"label": "undefined"
 				}
@@ -305,48 +305,53 @@
 				},
 				{
 					"line": 89,
+					"column": 16,
+					"label": "ceil()"
+				},
+				{
+					"line": 94,
 					"column": 24,
 					"label": "Numbers >"
 				},
 				{
-					"line": 99,
+					"line": 104,
 					"column": 21,
 					"label": "constructor"
 				},
 				{
-					"line": 108,
+					"line": 113,
 					"column": 23,
-					"label": "isInteger"
+					"label": "isInteger()"
 				},
 				{
-					"line": 115,
+					"line": 120,
 					"column": 31,
-					"label": "MAX_VALUE / MIN_VALUE"
+					"label": "MAX/MIN_ VALUE"
 				},
 				{
-					"line": 121,
+					"line": 126,
 					"column": 25,
-					"label": "toExponential"
+					"label": "toExponential()"
 				},
 				{
-					"line": 128,
+					"line": 133,
 					"column": 19,
-					"label": "toFixed"
+					"label": "toFixed()"
 				},
 				{
-					"line": 135,
+					"line": 140,
 					"column": 23,
-					"label": "toPrecision"
+					"label": "toPrecision()"
 				},
 				{
-					"line": 142,
+					"line": 147,
 					"column": 20,
-					"label": "toString"
+					"label": "toString()"
 				},
 				{
-					"line": 149,
+					"line": 154,
 					"column": 19,
-					"label": "valueOf"
+					"label": "valueOf()"
 				}
 			]
 		},
