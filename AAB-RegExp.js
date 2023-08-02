@@ -61,7 +61,7 @@ let resultG = patternG.exec(string);
 
 // /regexp/i
 
-let patternI = /di/i;
+let patternI = /DI/i;
 let resultI = patternI.test(string);
 
 // NB 3 : m
@@ -156,7 +156,8 @@ let quantifierSequenceTo = phoneNumber.match(/\d{3,4}/g); // Sequence of 3 up to
 
 let quantifierLeast = phoneNumber.match(/\d{2,}/g);
 
-// NB : ?= and !?
-// > The ?= quantifier matches any string that is followed / OR NOT ;by a specific string >
+// NB : ?= and ?!
+// > The ?= quantifier matches any string that is followed / OR NOT (?!); by a specific string >
 
-let followYes = followQuant.match(/is(?= all)/g);
+let followYes = followQuant.match(/is(?= all)/gi);
+let followNo = followQuant.match(/is(?! all)/gi);

@@ -29,6 +29,16 @@
 					"label": "copyWithin"
 				},
 				{
+					"line": 53,
+					"column": 25,
+					"label": "entries"
+				},
+				{
+					"line": 66,
+					"column": 21,
+					"label": "every"
+				},
+				{
 					"line": 76,
 					"column": 16,
 					"label": "fill"
@@ -37,6 +47,11 @@
 					"line": 84,
 					"column": 22,
 					"label": "filter"
+				},
+				{
+					"line": 94,
+					"column": 18,
+					"label": "find"
 				},
 				{
 					"line": 104,
@@ -206,7 +221,7 @@
 				{
 					"line": 5,
 					"column": 16,
-					"label": "eval()"
+					"label": "eval"
 				},
 				{
 					"line": 19,
@@ -216,32 +231,32 @@
 				{
 					"line": 29,
 					"column": 40,
-					"label": "isFinite() / Number.isFinite()"
+					"label": "isFinite / Number.isFinite"
 				},
 				{
 					"line": 37,
 					"column": 34,
-					"label": "isNan / Number.isNan()"
+					"label": "isNan / Number.isNan"
 				},
 				{
 					"line": 47,
 					"column": 18,
-					"label": "Number()"
+					"label": "Number"
 				},
 				{
 					"line": 58,
 					"column": 22,
-					"label": "parseFloat()"
+					"label": "parseFloat"
 				},
 				{
 					"line": 69,
 					"column": 20,
-					"label": "parseInt()"
+					"label": "parseInt"
 				},
 				{
 					"line": 83,
 					"column": 18,
-					"label": "String()"
+					"label": "String"
 				},
 				{
 					"line": 94,
@@ -306,7 +321,7 @@
 				{
 					"line": 89,
 					"column": 16,
-					"label": "ceil()"
+					"label": "ceil"
 				},
 				{
 					"line": 94,
@@ -321,7 +336,7 @@
 				{
 					"line": 113,
 					"column": 23,
-					"label": "isInteger()"
+					"label": "isInteger"
 				},
 				{
 					"line": 120,
@@ -331,27 +346,27 @@
 				{
 					"line": 126,
 					"column": 25,
-					"label": "toExponential()"
+					"label": "toExponential"
 				},
 				{
 					"line": 133,
 					"column": 19,
-					"label": "toFixed()"
+					"label": "toFixed"
 				},
 				{
 					"line": 140,
 					"column": 23,
-					"label": "toPrecision()"
+					"label": "toPrecision"
 				},
 				{
 					"line": 147,
 					"column": 20,
-					"label": "toString()"
+					"label": "toString"
 				},
 				{
 					"line": 154,
 					"column": 19,
-					"label": "valueOf()"
+					"label": "valueOf"
 				}
 			]
 		},
@@ -371,7 +386,7 @@
 				{
 					"line": 26,
 					"column": 18,
-					"label": "charAT"
+					"label": "charAt"
 				},
 				{
 					"line": 33,
